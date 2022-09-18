@@ -4,7 +4,8 @@ I developed this Work-Day-Scheduler.I am studying web development and it's one o
 <li>Html</li>
 <li>Css</li>
 <li>Java Script</li>
-# Table of contents
+
+## Table of contents
 
 
   - [Installation](#installation)
@@ -28,4 +29,5 @@ THEN the text for that event is saved even if user refreshes the page.
 [Link to deployed site]()
 
 This is a screenshot of Work-Day-Scheduler -
+<img width="1440" alt="Screen Shot 2022-09-18 at 6 01 49 pm" src="https://user-images.githubusercontent.com/110076459/190892160-e70cfb67-c40f-46df-8908-ab6c747d71e6.png">
 
